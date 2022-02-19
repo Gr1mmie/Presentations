@@ -1,2 +1,3 @@
 # Presentations
-talks n stuffs
+
+Repo to store resources for talks I've done
